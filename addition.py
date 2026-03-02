@@ -1,3 +1,3 @@
-a = 40
-b = 60
-print("Total ==",a+b)
+c= 400
+d = 600
+print("Total ==",c+d)
